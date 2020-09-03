@@ -10,7 +10,6 @@ ngrams = {}
 order = 6
 add_text(ngrams, 'medicina.txt', order, False)
 # add_text(ngrams, 'lei.txt', order, False)
-# add_text(ngrams, 'medicina.txt', order, False)
 
 print()
 print('*************************************************************************************')
